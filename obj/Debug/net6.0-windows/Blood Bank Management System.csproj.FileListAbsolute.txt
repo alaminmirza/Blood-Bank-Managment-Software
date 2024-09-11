@@ -1,0 +1,28 @@
+E:\Blood Bank Management System\Blood Bank Management System\bin\Debug\net6.0-windows\Blood Bank Management System.exe
+E:\Blood Bank Management System\Blood Bank Management System\bin\Debug\net6.0-windows\Blood Bank Management System.deps.json
+E:\Blood Bank Management System\Blood Bank Management System\bin\Debug\net6.0-windows\Blood Bank Management System.runtimeconfig.json
+E:\Blood Bank Management System\Blood Bank Management System\bin\Debug\net6.0-windows\Blood Bank Management System.dll
+E:\Blood Bank Management System\Blood Bank Management System\bin\Debug\net6.0-windows\ref\Blood Bank Management System.dll
+E:\Blood Bank Management System\Blood Bank Management System\bin\Debug\net6.0-windows\Blood Bank Management System.pdb
+E:\Blood Bank Management System\Blood Bank Management System\obj\Debug\net6.0-windows\Blood Bank Management System.csproj.AssemblyReference.cache
+E:\Blood Bank Management System\Blood Bank Management System\obj\Debug\net6.0-windows\Blood Bank Management System.GeneratedMSBuildEditorConfig.editorconfig
+E:\Blood Bank Management System\Blood Bank Management System\obj\Debug\net6.0-windows\Blood Bank Management System.AssemblyInfoInputs.cache
+E:\Blood Bank Management System\Blood Bank Management System\obj\Debug\net6.0-windows\Blood Bank Management System.AssemblyInfo.cs
+E:\Blood Bank Management System\Blood Bank Management System\obj\Debug\net6.0-windows\Blood Bank Management System.csproj.CoreCompileInputs.cache
+E:\Blood Bank Management System\Blood Bank Management System\obj\Debug\net6.0-windows\Blood Bank Management System.dll
+E:\Blood Bank Management System\Blood Bank Management System\obj\Debug\net6.0-windows\ref\Blood Bank Management System.dll
+E:\Blood Bank Management System\Blood Bank Management System\obj\Debug\net6.0-windows\Blood Bank Management System.pdb
+E:\Blood Bank Management System\Blood Bank Management System\obj\Debug\net6.0-windows\Blood Bank Management System.genruntimeconfig.cache
+E:\Blood Bank Management System\Blood Bank Management System\obj\Debug\net6.0-windows\Blood_Bank_Management_System.Form2.resources
+E:\Blood Bank Management System\Blood Bank Management System\obj\Debug\net6.0-windows\Blood Bank Management System.csproj.GenerateResource.cache
+E:\Blood Bank Management System\Blood Bank Management System\obj\Debug\net6.0-windows\Blood_Bank_Management_System.Properties.Resources.resources
+E:\Blood Bank Management System\Blood Bank Management System\obj\Debug\net6.0-windows\Blood_Bank_Management_System.Dashboard.resources
+E:\Blood Bank Management System\Blood Bank Management System\obj\Debug\net6.0-windows\Blood_Bank_Management_System.AddNewDonor.resources
+E:\Blood Bank Management System\Blood Bank Management System\obj\Debug\net6.0-windows\Blood_Bank_Management_System.UpdateDonorDetails.resources
+E:\Blood Bank Management System\Blood Bank Management System\obj\Debug\net6.0-windows\Blood_Bank_Management_System.AllDonorDetails.resources
+E:\Blood Bank Management System\Blood Bank Management System\obj\Debug\net6.0-windows\Blood_Bank_Management_System.SearchBloodDonorAddress.resources
+E:\Blood Bank Management System\Blood Bank Management System\obj\Debug\net6.0-windows\Blood_Bank_Management_System.SearchDonorByBlood.resources
+E:\Blood Bank Management System\Blood Bank Management System\obj\Debug\net6.0-windows\Blood_Bank_Management_System.StockIncrease.resources
+E:\Blood Bank Management System\Blood Bank Management System\obj\Debug\net6.0-windows\Blood_Bank_Management_System.StockDecrease.resources
+E:\Blood Bank Management System\Blood Bank Management System\obj\Debug\net6.0-windows\Blood_Bank_Management_System.Stock.resources
+E:\Blood Bank Management System\Blood Bank Management System\obj\Debug\net6.0-windows\Blood_Bank_Management_System.DeleteDonor.resources
